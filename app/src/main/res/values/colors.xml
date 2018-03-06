@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar and tab bar) -->
+    <color name="primary_color">#F44336</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#212121</color>
+
+    <!-- Color accent -->
+    <color name="color_accent">#9E9E9E</color>
+
+    <!-- Background color for app -->
+    <color name="main_background_color">#FFFFFF</color>
+
+    <!-- TabLayout Background color -->
+    <color name="background_color_tablayout">#9E9E9E</color>
+
+    <!-- Background color for the attractions -->
+    <color name="attractions_background_color">#FFFFFF</color>
+
+    <!-- List item text color -->
+    <color name="text_color_list_item">#212121</color>
+
+    <!-- Tab indicator color -->
+    <color name="tab_indicator_color">#212121</color>
+
+    <!-- Selected tab text color -->
+    <color name="tab_selected_text_color">#212121</color>
+
+    <!-- Unselected tab text color -->
+    <color name="tab_layout_text_style_color">#FFFFFF</color>
+</resources>

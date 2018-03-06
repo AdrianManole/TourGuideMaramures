@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Tour Guide Maramures</string>
+
+    <!-- Tourist Attractions page title -->
+    <string name="tourist_attraction">Main Attractions</string>
+
+    <!-- Wooden churches page title -->
+    <string name="wooden_churches">Wooden Churches</string>
+
+    <!-- Museums page title -->
+    <string name="museums">Museums</string>
+
+    <!-- Accommodation page title -->
+    <string name="accommodation">Accommodation</string>
+
+    <!-- Tourist attractions -->
+    
+    <!-- Baia Mare -->
+    <string name="baia_mare_title">Baia Mare</string>
+    <string name="baia_mare_description">Baia Mare is the capital of Maramures county and Romania’s fourth largest city.
+        It is located at the base of the Gutai Mountains and is famous for being a gold-mining town in the 14th century,
+        becoming a metals centre under the communists. There is the city park, a theatre,and The Village
+        Museum which showcases the renowned traditional wooden houses or the Maramures region.</string>
+
+    <!-- Merry Cemetery -->
+    <string name="merry_cemetery_title">Merry Cemetery</string>
+    <string name="merry_cemetery_description">
+        Located in Sapanta, The Merry Cemetery is famous for its colourful painted tombstones describing
+        the people buried there, along with scenes from their lives. The unusual feature of this cemetery
+        is that it diverges from the prevalent view, culturally shared within European societies,
+        of death as something indelibly solemn.
+        </string>
+    
+    <!-- Mocanita narrow gauge steam train  -->
+    <string name="mocanita_steam_train_title">Mocanita Steam Train</string>
+    <string name="mocanita_description">Mocanita (Romanian-“Mocăniţa“) is the Romanian forestry narrow
+        gauge steam train that was born more than 100 years ago. This line is still the only forestry
+        line working in Romania on daily bases in the Water Valley (Valea Vaserului), Viseu de Sus.
+        Several steam locomotives are still operating on this line and one of these (764-211, “Mariuta“)
+        is over 100 years old! The locomotives are used for both passenger and log trains.</string>
+
+    <!-- Wooden churches -->
+
+    <!-- Surdesti wooden church -->
+    <string name="surdesti_title">The wooden church of Surdesti</string>
+    <string name="surdesti_description">The wooden church of Şurdeşti, devoted to the
+        Saint Archangels Michael and Gabriel, was built in 1721 under the direction of Toma Macarie.
+        The church steeple is among the tallest old wooden structures in the world.
+        In the past, people believed that the taller the church tower was,
+        the easier their prayers could reach up to Heaven.</string>
+
+    <!-- Ieud wooden church -->
+    <string name="ieud_title">The wooden church of Ieud</string>
+    <string name="ieud_description">The upper church of Ieud, inscribed in UNESCO\'s World Heritage List,
+        is made of fir tree wood. Historians have failed to agree on the date of its construction.
+        The most cautious suggest the 17th century. Others date it as far back as 1364 and deem it
+        to be the oldest in Maramures.</string>
+
+    <!-- Plopis wooden church -->
+    <string name="plopis_title">The wooden church of Plopis</string>
+    <string name="plopis_description">The wooden church of Plopiş is also part of UNESCO World Heritage
+        and is devoted to the Saint Archangels Michael and Gabriel, whose celebration every year is held
+        on November the 8th. The village of Plopiş, situated in the Cavnic Valley, is first mentioned
+        in documents in 1583, as a settlement belonging to the Chioar Fortress.</string>
+
+
+    <!-- Museums -->
+
+    <!-- Sighet Village Museum -->
+    <string name="sighet_village_title">Sighet Village Museum</string>
+    <string name="sighet_village_description">Located as you enter the town of Sighet, on the road from Baia Mare,
+        the Village Museum, as you see it today, leaves the impression of a typical village from Maramures.
+        One straight road and several crooked roads or paths make up the inherent structure of the settlement
+        and they all converge as in all Maramures villages, towards the church.
+        The wooden homes of hand-hewn timbers represent Jewish, Slavic, Hungarian, German, and Romanian
+        habitations from the 17th and 18th centuries. The houses are preserved intact both inside and out,
+        with original carving on the doorways, and some of the writing in Cyrillic and even Arabic.
+        \n<b>Opening hours:</b>
+        \n\t Tuesday to Sunday from 8AM to 4PM
+        \n\t Mondays closed
+        \n<b>Contact:</b>
+        \n\t Muzeului Street, no. 1, Sighetu-Marmatiei
+        \n\t Maramures, Romania
+        \n\t Telephone: +40 (0) 262314229
+        \n\t E-mail: muzeulmaramuresului@yahoo.com </string>
+
+    <!-- Sighet Memorial of the Victims of Communism and of the Resistance-->
+    <string name="sighet_memorial_title">The Memorial of the Victims of Communism and of the Resistance</string>
+    <string name="sighet_memorial_description">Located in Sighetu-Maramatiei, the former prison is today
+        the setting for a museum dedicated to what happened under communism in Romania and the other
+        countries of Central and Eastern Europe.
+        The cells have been transformed into museum rooms, each with its own theme or chronology of the
+        political malformation that brought suffering and death throughout the twentieth century,
+        both inside and outside prison walls.
+        \n<b>Opening hours:</b>
+        \n\t Monday to Sunday from 9:30AM to 6:30PM
+        \n<b>Contact:</b>
+        \n\t Corneliu Coposu Street, no. 4, Sighetu-Marmatiei
+        \n\t Maramures, Romania
+        \n\t Telephone: +40 (0) 262319424
+        \n\t E:mail: muzeu@memorialsighet.ro </string>
+
+    <!-- Baia Mare Ethnography and Folk Art Museum -->
+    <string name="ethnography_museum_title">Ethnography and Folk Art Museum</string>
+    <string name="ethnography_museum_description">Located in Baia Mare, at the foot of the Florilor Hill,
+        the Ethnography and Folk Art Museum reflects the traditional occupations, crafts,
+        folk clothing and religious objects specific to old Maramures.
+        \n<b>Opening hours:</b>
+        \n\t Tuesday to Sunday from 10AM to 6PM
+        \n\t Mondays closed
+        \n<b>Contact:</b>
+        \n\t Dealul Florilor Street, no. 1, Baia Mare
+        \n\t Maramures, Romania
+        \n\t Telephone: +40 (0) 262276895 </string>
+
+    <!-- Accommodation -->
+
+    <!-- The Village Hotel -->
+    <string name="village_hotel_title">The Village Hotel in Breb, Maramures</string>
+    <string name="village_hotel_description">The Village Hotel is set in over one hectare of land in the heart
+        of the village of  Breb,  in Northern Transylvania. There is a stream that runs though the center,
+        surrounded by fruit trees and the organic gardens.
+        \n<b>Contact:</b>
+        \n\t The Village Hotel, no. 349, Breb
+        \n\t Maramures, Transylvania, Romania, 437206
+        \n\t Bookings: info@villagehotel.ro
+        \n\t www.villagehotelmaramures.com
+    </string>
+
+    <!-- Babou Hostel -->
+    <string name="babou_hostel_title">Babou Hostel</string>
+    <string name="babou_hostel_description">Babou’s campsite is situated in the garden behind our
+        house where we have around 6000 square metres available for tents and campers.
+        We have 14 electricity points, each of 4 ampere. You can choose where you want to pitch your
+        tent or place your camper. You can also make use of our hammocks  to sit back and relax or make
+        a fire at one of the fire places.
+        \n<b>Contact:</b>
+        \n\t Babou Hostel, no. 149, Breb
+        \n\t Maramures, Transylvania, Romania, 437206
+        \n\t Telephone: +40(0)768397339
+        \n\t Bookings: info@baboumaramures.com
+        \n\t www.baboumaramures.com
+
+    </string>
+</resources>
