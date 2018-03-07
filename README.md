@@ -14,7 +14,7 @@
 
 <h2>Description</h2>
 <ul>
-	<li>Tour Guide Maramures is an app with multiple screens, each of which lists a kind of attraction.</li>
+	<li>Tour Guide Maramures is an app with multiple screens, each of which lists a kind of attraction from Maramureș, Romania.</li>
 </ul>
 
 <h2>Screenshots</h2>
